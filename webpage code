@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>UPYCLE RANGERS!</title>
+    <h1>CLIMATE CHANGE</h1> <header> By Kelvin </header>
+    <nav>
+      <a href="Home">Home</a>
+      <a href="Contact Us">Contact Us</a></a>
+    </nav>
+    <p> Climate change affects the environment in many different ways, including rising temperatures, sea level rise, drought, flooding, and more. These events affect things that we depend upon and value, like water, energy, transportation, wildlife, agriculture, ecosystems, and human health.</p>
+  </head>
+  <body>
+      <h2 class="title">Effects in Africa! </h2>
+      <p id="currentTime"></p>
+      <p>  In 2023, the continent experienced;
+      <li deadly heatwaves</li> <li> heavy rains</li> <li>floods</li> <li> tropical cyclones,</li> <li> and prolonged droughts</li>
+      </p>
+ <img src="https://uploads.onecompiler.io/43t4zf95f/43t4y76fa/drought.jpg" alt="A dry land">
+ <img scr="https://uploads.onecompiler.io/43t4zf95f/43t4y76fa/floods.jpg" alt="Flooded land">
+ 
+  </body>
+  
+  <footer>
+    <p> Leave a comment!</p>
+    <form>
+    <label for="name">Name:</label><br>
+    <textarea id="name" name="name" rows="1" cols="40"></textarea><br><br>
+
+    <label for="email">Email:</label><br>
+    <textarea id="email" name="email" rows="1" cols="40"></textarea><br><br>
+
+    <label for="comment">Comment:</label><br>
+    <textarea id="comment" name="comment" rows="4" cols="40"></textarea><br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+  </footer>
+</html>
